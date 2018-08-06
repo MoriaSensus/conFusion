@@ -1,0 +1,14 @@
+1. Introduction:
+
+My 'ConFusion' project is the heart and face of Con-Fusion restaurant.
+The Single Page Application representing the main details of the restaurant such as menu in the Menu page and location and phone number in the Contact Us page, 
+though not forgetting the customer side in the Feedback form.
+The application contains:
+- services
+- routs
+- using animation module
+- using REST
+- tests tools
+
+
+2. Post Request - When i have to get a response from the server after posting, i concidered to use a promise instead of subscribe.
